@@ -7,7 +7,7 @@ Este é meu primeiro projeto de análise de dados, onde explorei um conjunto de 
 O objetivo desta análise é explorar e entender o cenário atual do setor de restaurantes com base em dados reais. Por meio dessa análise, busquei identificar padrões, tendências e insights que possam ser úteis para proprietários de restaurantes.
 
 ## Fonte de Dados
-Os dados utilizados nesta análise foram obtidos a partir de [Kaggle](https://www.kaggle.com/datasets/mohdshahnawazaadil/restaurant-dataset/data). O conjunto de dados contém informações sobre diversos restaurantes, incluindo localização, tipos de culinária, avaliações dos clientes, entre outros.
+Os dados utilizados nesta análise foram obtidos a partir do [Kaggle](https://www.kaggle.com/datasets/mohdshahnawazaadil/restaurant-dataset/data). O conjunto de dados contém informações sobre diversos restaurantes, incluindo localização, tipos de culinária, avaliações dos clientes, entre outros.
 
 ## Conteúdo
 - Análise da distribuição geográfica dos restaurantes.
