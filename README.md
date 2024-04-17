@@ -19,7 +19,7 @@ Os dados utilizados nesta análise foram obtidos a partir do [Kaggle](https://ww
 - Identificação das cozinhas mais comuns em diferentes cidades.
 - Detecção de valores discrepantes nas avaliações dos restaurantes.
 - Identificação dos 10 restaurantes mais populares com base na quantidade de votos recebidos.
-- Avaliação das 10 cozinhas mais bem avaliadas pelos clientes.
+- Avaliação das 10 cozinhas mais bem avaliadas pelos clientes e etc...
 
 ## Conclusão
 Esta análise proporcionou uma compreensão mais profunda do mercado de restaurantes, destacando padrões e insights importantes. Embora seja minha primeira análise, espero que as informações apresentadas possam ser úteis para diferentes áreas, desde de estrátegias de markerting até investidores e consumidores em busca de experiências gastronômicas de qualidade.
